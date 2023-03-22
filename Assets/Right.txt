@@ -1,0 +1,8 @@
+Next
+Eat food
+Share Food
+Welcome it home
+Leave it alone
+Hide
+Don't move
+END
